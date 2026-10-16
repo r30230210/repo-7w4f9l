@@ -1,0 +1,16 @@
+title: repo-7w4f9l
+description: repo-7w4f9l
+url: https://r30230210.github.io
+baseurl: /repo-7w4f9l
+timezone: Asia/Shanghai
+permalink: /:basename.html
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+baidu_push: true
