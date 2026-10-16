@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://r30230210.github.io/repo-7w4f9l/sitemap.xml
+# Atom Feed: https://r30230210.github.io/repo-7w4f9l/feed.xml
